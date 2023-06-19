@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\bin\Debug\net6.0\salary.exe
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\bin\Debug\net6.0\salary.deps.json
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\bin\Debug\net6.0\salary.runtimeconfig.json
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\bin\Debug\net6.0\salary.dll
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\bin\Debug\net6.0\salary.pdb
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.AssemblyInfo.cs
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.dll
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\refint\salary.dll
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.pdb
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\salary.genruntimeconfig.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\salary\obj\Debug\net6.0\ref\salary.dll

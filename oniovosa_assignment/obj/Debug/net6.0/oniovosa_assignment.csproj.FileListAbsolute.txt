@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\bin\Debug\net6.0\oniovosa_assignment.exe
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\bin\Debug\net6.0\oniovosa_assignment.deps.json
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\bin\Debug\net6.0\oniovosa_assignment.runtimeconfig.json
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\bin\Debug\net6.0\oniovosa_assignment.dll
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\bin\Debug\net6.0\oniovosa_assignment.pdb
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.AssemblyInfo.cs
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.dll
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\refint\oniovosa_assignment.dll
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.pdb
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\oniovosa_assignment.genruntimeconfig.cache
+C:\Users\hp\Documents\BACKEND\oniovosa_assignment\oniovosa_assignment\obj\Debug\net6.0\ref\oniovosa_assignment.dll
